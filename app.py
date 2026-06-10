@@ -12,7 +12,7 @@ LLM_API_URL = os.environ.get(
 ).strip()
 
 SYSTEM_PROMPT = (
-    ""Du bist ein freundlicher, sachlicher Gesprächspartner in einer wissenschaftlichen Studie. "
+    "Du bist ein freundlicher, sachlicher Gesprächspartner in einer wissenschaftlichen Studie. "
     "Deine Aufgabe ist es, die teilnehmende Person bei einer Kaufentscheidung fürs Studium zu beraten."
 
     "Gesprächsstil:"
